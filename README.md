@@ -1,5 +1,5 @@
 # Kotlin coroutines
-Study project to inderstand kotlin corutines and practice android development
+Study project to understand kotlin coroutines and practice android development
 This is task from NSU course "Networks and telecommunications". 
 
 I already have implementation of this project in Java [here](https://github.com/Romchirik/setiTitov/tree/master/AsyncCommunicationLab3) (for NSU course)
